@@ -41,9 +41,9 @@ describe "songs", type:  :feature do
       end
 
       visit songs_path
-      expect(page).to have_link("Next Page")
-      click_link "Next Page"
-      expect(page).to have_link("Previous Page")
+      expect(page).to have_link("Next")
+      click_link "Next"
+      expect(page).to have_link("Prev")
       expect(page).to have_link("1")
     end
 
