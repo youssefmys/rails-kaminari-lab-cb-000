@@ -22,4 +22,6 @@ still passing after you're done!
 3. Ensure tests pass.
 4. High five a million angels, 20 at a time.
 
+**Note** There are tests that are already passing.  That's intentional.
+
 ![Liz Lemon](http://i.giphy.com/CCJnMBqEYxxEk.gif)
